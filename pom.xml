@@ -34,7 +34,7 @@
         <jwt.version>3.5.0</jwt.version>
         <collection-utils.version>4.1</collection-utils.version>
         <lang-utils.version>3.6</lang-utils.version>
-        <junit.version>4.11</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
     
     <dependencyManagement>
